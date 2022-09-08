@@ -15,4 +15,5 @@ Il est créé en par trois anciens employés de Paypal :credit_card: :
 
 >Voici le lien pour accèder directement à la plateforme [Youtube](https://youtube.com/).
 
-[^note]: Mes sources proviennent de mes diverses expériences sur la plateforme ainsi que [Wikipedia](https://fr.wikipedia.org/wiki/YouTube)  .
+[^1]: Mes sources proviennent de mes diverses expériences sur la plateforme 
+[^2]: Ainsi que [Wikipedia](https://fr.wikipedia.org/wiki/YouTube)  .
