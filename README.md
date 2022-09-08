@@ -1,7 +1,3 @@
-`#0d1117`
-
-# PremierTest
-
 # Youtube
 
 YouTube est un site web d'hébergement de vidéos et média social sur lequel les utilisateurs peuvent envoyer, regarder, commenter, évaluer et partager des vidéos en streaming. 
