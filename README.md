@@ -11,7 +11,7 @@ Il est créé en par trois anciens employés de Paypal :credit_card: :
 - Chad Hurley
 - Jawed Karim
 
-![This is an image](https://fr.wikipedia.org/wiki/Steve_Chen#/media/Fichier:YouTube_TaiwanVersionLaunch_SteveChen-1.jpg)
+![](https://www.youtube.com/img/desktop/yt_1200.png)
 
 >Voici le lien pour accèder directement à la plateforme [Youtube](https://youtube.com/).
 
