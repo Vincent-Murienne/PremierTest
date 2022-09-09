@@ -22,6 +22,7 @@ Créé en 2005, Youtube à rencontré certains conccurents dont le plus connu Da
 
 Sir Gibsy, Youtuber français, dénonce les contenus offensant, abus d'enfant ...
 Soit tout ce qui va à l'encontre de la morale ou encore des règles de Youtube.
+[SirGibsy](https://www.youtube.com/c/SirGibsy)
 
 >Voici le lien pour accèder directement à la plateforme [Youtube](https://youtube.com/).
 
