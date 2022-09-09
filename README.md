@@ -12,6 +12,11 @@ Il est créé en par trois anciens employés de Paypal :credit_card: :
 - Jawed Karim
 
 ![](https://www.webrankinfo.com/dossiers/wp-content/uploads/youtube-logo-2017-743-710x287.png)
+![](https://i.gifer.com/fyFl.gif)
+
+Un gros point fort de cette plateforme est sa diversité de contenus, on peut se divertir comme s'instruire (:warning: attention tout de même aux fake news).
+C'est aussi un bon moyen de se faire connaître et créer / développer de nouveaux métier (monteur vidéos / Youtubeur, etc).
+Créé en 2005, Youtube à rencontré certains conccurents dont le plus connu Dailymotion qui tout comme les autres plateforme n'est à ce jour plus un conccurent valable.
 
 >Voici le lien pour accèder directement à la plateforme [Youtube](https://youtube.com/).
 
