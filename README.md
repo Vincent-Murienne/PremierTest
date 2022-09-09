@@ -11,7 +11,7 @@ Il est créé en par trois anciens employés de Paypal :credit_card: :
 - Chad Hurley
 - Jawed Karim
 
-![](https://www.youtube.com/img/desktop/yt_1200.png)
+![](https://www.webrankinfo.com/dossiers/wp-content/uploads/youtube-logo-2017-743-710x287.png)
 
 >Voici le lien pour accèder directement à la plateforme [Youtube](https://youtube.com/).
 
